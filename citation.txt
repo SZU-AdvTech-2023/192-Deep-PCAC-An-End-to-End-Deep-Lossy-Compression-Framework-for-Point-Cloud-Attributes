@@ -1,0 +1,9 @@
+@article{REPO192,
+    author = "Sheng, Xihua and Li, Li and Liu, Dong and Xiong, Zhiwei and Li, Zhu and Wu, Feng",
+    journal = "IEEE Transactions on Multimedia",
+    number = "",
+    pages = "2617-2632",
+    title = "{Deep-PCAC: An End-to-End Deep Lossy Compression Framework for Point Cloud Attributes}",
+    volume = "24",
+    year = "2022"
+}
